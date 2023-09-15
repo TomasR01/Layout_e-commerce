@@ -48,6 +48,7 @@ footer{
     'footer footer footer';
 }
 
+
 .seccion-principal{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
